@@ -18,7 +18,10 @@ To set up your development environment, follow these steps:
    - UpdateBooking()
    - AddBooking()
    - CancelBooking()
-![ER Diagram]ER-diagram.png)
+![ER Diagram](ER-diagram.png)
 
 ## Data Analysis with Tableau
 1. Open the Workbook in the tableau to see all worksheets and dashboards.
+![Map chart](Charts-tableau/Map-chart.png)
+![Bar chart](Charts-tableau/Bar-chart.png)
+![Pie chart](Charts-tableau/Pie-chart.png)
